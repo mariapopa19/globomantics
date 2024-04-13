@@ -1,0 +1,16 @@
+﻿E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\App.xaml
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\App.xaml.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\AssemblyInfo.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\Converters\ByteToImageConverter.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\Helpers\ObservableCollectionExtensions.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\Helpers\TodoTemplateSelector.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\Json\SerializationBinder.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\MainWindow.xaml.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\UserControls\BugControl.xaml.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\UserControls\FeatureControl.xaml.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\ViewModels\IViewModel.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\ViewModels\MainViewModel.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\Properties\PublishProfiles\FolderProfile.pubxml
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\MainWindow.xaml
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\UserControls\BugControl.xaml
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantics.Windows\UserControls\FeatureControl.xaml

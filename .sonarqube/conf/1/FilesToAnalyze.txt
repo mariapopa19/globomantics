@@ -1,0 +1,6 @@
+﻿E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantincs.Domain\Bug.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantincs.Domain\Feature.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantincs.Domain\Severity.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantincs.Domain\Todo.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantincs.Domain\TodoTask.cs
+E:\C# Learning\c-sharp-10-building-real-world-application\App\Globomantincs.Domain\User.cs

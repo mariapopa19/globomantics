@@ -1,0 +1,1 @@
+E:\C# Learning\c-sharp-10-building-real-world-application\App\.sonarqube\out\0
