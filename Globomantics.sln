@@ -5,9 +5,12 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Globomantics.Windows", "Globomantics.Windows\Globomantics.Windows.csproj", "{D7DA3021-81CF-4304-88F8-6ADB7F06A621}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globomantincs.Domain", "Globomantincs.Domain\Globomantincs.Domain.csproj", "{ECD0CC8C-B818-41EE-A0D5-9213D8DEAC71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Globomantics.Domain", "Globomantincs.Domain\Globomantics.Domain.csproj", "{ECD0CC8C-B818-41EE-A0D5-9213D8DEAC71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globomantincs.Infrastructure", "Globomantincs.Infrastructure\Globomantincs.Infrastructure.csproj", "{CEA3F9F4-131B-4D1A-B224-772344FB267F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Globomantics.Infrastructure", "Globomantincs.Infrastructure\Globomantics.Infrastructure.csproj", "{CEA3F9F4-131B-4D1A-B224-772344FB267F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ECD0CC8C-B818-41EE-A0D5-9213D8DEAC71} = {ECD0CC8C-B818-41EE-A0D5-9213D8DEAC71}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
